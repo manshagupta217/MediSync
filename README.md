@@ -23,23 +23,17 @@ Role-based access control for different users such as admin and doctors.
 Tracking and Monitoring
 Manage appointments and monitor patient activity efficiently.
 
-⸻
-
 Tech Stack
 	•	Frontend: React, TypeScript, Tailwind CSS, shadcn-ui
 	•	Backend: FastAPI / Flask
 	•	Data and AI: Python, Pandas, Scikit-learn
 	•	Database: PostgreSQL / SQLite
 
-⸻
-
 What I Learned
 	•	Built responsive and clean dashboard interfaces using React and Tailwind CSS
 	•	Integrated frontend with backend APIs for real-time data handling
 	•	Worked with structured datasets and implemented basic machine learning models
 	•	Improved understanding of full-stack development and data-driven applications
-
-⸻
 
 Why This Project Matters
 
